@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-3MBYQXFNVG"
 
@@ -83,7 +83,7 @@ author:
   name             : "Dustin Frye"
   avatar           : "Dustin_Frye_PC005.jpeg"
   bio              : "Assistant Professor of Economics"
-  location         : "Vassar College"
+  location         : 
   employer         : "Vassar College"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xJo0mcYAAAAJ&hl=en&authuser=1"

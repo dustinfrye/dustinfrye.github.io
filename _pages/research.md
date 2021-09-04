@@ -58,7 +58,7 @@ author_profile: true
 
 <p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2010. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
 <br>
-<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a>] </small>
+<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
 <p>
 
 <div id="pnp" style="display: none; text-align: justify; line-height: 1.2"><small> The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12–15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.</small><br><br></div>
