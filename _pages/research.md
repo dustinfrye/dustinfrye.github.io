@@ -103,7 +103,7 @@ within-reservation inequality</small><br><br></div>
 <p>
 
 
-<p><strong>Lead Exposure and School Attendance</strong> (with Gisella Kagy)
+<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy)
 <br>
 <p>
 
