@@ -21,17 +21,25 @@ author_profile: true
 
 <p><strong>The Effect of Allotment on Native American Households During the Assimilation Era</strong> (with Christian Dippel). 2021.
 <br>
-<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_master.pdf">Recent Draft</a>] </small>
+<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_.pdf">Recent Draft</a>] </small>
 <p>
 
 <div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
 
-<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2021. (Revisions Requested Review of Economics and Statistics)
+<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2021. (Resubmitted to Review of Economics and Statistics)
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogInd_master.pdf">Recent Draft</a>] </small>
 <p>
 
-<div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial employment growth across the United States from 1953 to 2016. The paper instruments for eventual highway locations using an historic military map combined with a network theory algorithm to predict construction timing for each highway segment. The results indicate that interstate counties and adjacent counties within the metropolitan periphery experienced significant employment growth relative to non-highway counties. These differences developed in the first two decades and are concentrated in traditionally non-traded sectors. The results demonstrate the importance of transportation infrastructure for reshaping the spatial arrangement of economic activity.</small><br><br></div>
+<div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
+
+
+<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022.
+<br>
+<small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
 
 
 <p><strong>Colonial Definitions of Indigenous Identify and Modern Inequality on American Indian Reservations</strong> (with Dominic P. Parker) 2021.
