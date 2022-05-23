@@ -26,7 +26,7 @@ author_profile: true
 
 <div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
 
-<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2021. (Resubmitted to Review of Economics and Statistics)
+<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2022. (Resubmitted to Review of Economics and Statistics)
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogInd_master.pdf">Recent Draft</a>] </small>
 <p>
@@ -34,7 +34,7 @@ author_profile: true
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
 
 
-<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022.
+<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022. (Under Review)
 <br>
 <small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
 <p>
