@@ -26,7 +26,7 @@ author_profile: true
 
 <div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
 
-<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2022. (Resubmitted to Review of Economics and Statistics)
+<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2022. <em> (2nd Round Revisions Requested at Review of Economics and Statistics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogInd_master.pdf">Recent Draft</a>] </small>
 <p>
@@ -34,7 +34,7 @@ author_profile: true
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
 
 
-<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022. (Under Review)
+<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022. <em> (Resubmitted to Public Choice) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
 <p>
@@ -58,7 +58,6 @@ author_profile: true
 <div id="ira" style="display: none; text-align: justify; line-height: 1.2"><small> This paper studies the decentralization of governance across American Indian reservations and measures the long-run development differences for reservations that were granted less sovereignty through the Indian Reorganization Act (IRA). To mitigate selection concerns regarding IRA adoption, we exploit voting results by restricting our analysis to narrowly determined elections. Results indicate that IRA adoption stifled economic development, resulting in lower per capita income, higher inequality, and a less developed gaming sector. Income differences develop within the first decade of adoption and persist throughout the twentieth century. Legislation in recent decades expanded local control to reservation governments, expanding sovereignty for IRA reservations, as a result income differences diminish by 2010.</small><br><br></div>
 
 
-
 <h1 id="-publications-">
 	<center> Publications and Forthcoming articles </center>
 </h1>
@@ -66,7 +65,7 @@ author_profile: true
 
 <p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2010. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
 <br>
-<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
+<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.hoover.org/research/self-governance-increased-long-run-income-growth-american-indian-reservations">Hoover Report</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
 <p>
 
 <div id="pnp" style="display: none; text-align: justify; line-height: 1.2"><small> The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12–15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.</small><br><br></div>
@@ -93,12 +92,15 @@ a reservation to over ninety percent of individuals in the historical Native Ame
 population, and apply this crosswalk to answering some long-standing questions on
 within-reservation inequality</small><br><br></div>
 
-<p><strong>Market Integration and the Transition to Modern Agriculture</strong>
+<p><strong>Land Development Along National Highway Networks</strong> 2022.
 <br>
+<small>[ <a href="#/" onclick="visib('hwyland')">Abstract</a> ] </small>
 <p>
 
+<div id="hwyland" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the impact of interstate highways on land development across the United States. First, by considering the intensity of building construction from 1955 to 2015 measured at the 1 km x 1 km grid cell level. Next, it considers the share of developed land using land cover data from 1974 to 2015. For identification, the paper uses proposed but never built highway segments from a 1920s interstate plan as counterfactual interstate locations. Results indicate that interstates significantly increased land development. These gains are strongest among commercial and industrial land and are concentrated within 5 kilometers of interstates.</small><br><br></div>
 
-<p><strong>Land Development Along National Highway Networks</strong>
+
+<p><strong>Market Integration and the Transition to Modern Agriculture</strong>
 <br>
 <p>
 
