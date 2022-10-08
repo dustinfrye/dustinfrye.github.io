@@ -12,20 +12,6 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2020.
-<br>
-<small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
-<p>
-
-<div id="land" style="display: none; text-align: justify; line-height: 1.2"><small> Governments often place restrictions on the transferability of property rights to protect property owners from making “mistakes”such as selling their property under value. However, these restrictions entail costs: they reduce the property’s value as collateral in credit markets, limit owners’ ability and incentives to invest in the land, and create various transaction costs that constrain optimal land use. We investigate these costs over the long run, using a natural experiment whereby millions of acres of reservation lands were allotted to Native American households under differing land-titles between 1887–1934. We compare non-transferable land plots to neighboring plots held with full property rights, using fine-grained satellite imagery to study differences in land development and agricultural activity from 1974–today. </small><br><br></div>
-
-<p><strong>The Effect of Allotment on Native American Households During the Assimilation Era</strong> (with Christian Dippel). 2021.
-<br>
-<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_.pdf">Recent Draft</a>] </small>
-<p>
-
-<div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
-
 <p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2022. <em> (2nd Round Revisions Requested at Review of Economics and Statistics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogInd_master.pdf">Recent Draft</a>] </small>
@@ -40,6 +26,22 @@ author_profile: true
 <p>
 
 <div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
+
+
+<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2020.
+<br>
+<small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
+<p>
+
+<div id="land" style="display: none; text-align: justify; line-height: 1.2"><small> Governments often place restrictions on the transferability of property rights to protect property owners from making “mistakes”such as selling their property under value. However, these restrictions entail costs: they reduce the property’s value as collateral in credit markets, limit owners’ ability and incentives to invest in the land, and create various transaction costs that constrain optimal land use. We investigate these costs over the long run, using a natural experiment whereby millions of acres of reservation lands were allotted to Native American households under differing land-titles between 1887–1934. We compare non-transferable land plots to neighboring plots held with full property rights, using fine-grained satellite imagery to study differences in land development and agricultural activity from 1974–today. </small><br><br></div>
+
+<p><strong>The Effect of Allotment on Native American Households During the Assimilation Era</strong> (with Christian Dippel). 2021.
+<br>
+<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
+
 
 
 <p><strong>Colonial Definitions of Indigenous Identify and Modern Inequality on American Indian Reservations</strong> (with Dominic P. Parker) 2021.
