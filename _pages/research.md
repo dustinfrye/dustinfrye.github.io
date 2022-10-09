@@ -61,7 +61,7 @@ author_profile: true
 
 
 <h1 id="-publications-">
-	<center> Journal Article Publications and Forthcoming articles </center>
+	<center>Publications and Forthcoming articles </center>
 </h1>
 <hr>
 
