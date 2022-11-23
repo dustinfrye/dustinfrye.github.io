@@ -64,7 +64,7 @@ author_profile: true
 <div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
 
 
-<p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2010. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
+<p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2021. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
 <br>
 <small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.hoover.org/research/self-governance-increased-long-run-income-growth-american-indian-reservations">Hoover Report</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
 <p>
