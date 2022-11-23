@@ -19,15 +19,6 @@ author_profile: true
 
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
 
-
-<p><strong>Bureaucratic Discretion: "Indian Agents" during Dawes-Era Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2022. <em> (Accepted at Public Choice) </em>
-<br>
-<small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
-<p>
-
-<div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
-
-
 <p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2020.
 <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
@@ -64,6 +55,14 @@ author_profile: true
 	<center>Publications and Forthcoming articles </center>
 </h1>
 <hr>
+
+<p><strong>Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</strong> (with Christian Dippel and Bryan Leonard). 2022. <em> (Forthcoming at Public Choice) </em>
+<br>
+<small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
+
 
 <p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2010. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
 <br>
