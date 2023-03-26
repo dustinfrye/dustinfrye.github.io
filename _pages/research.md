@@ -63,7 +63,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</strong> (with Christian Dippel and Bryan Leonard). 2022. <em> (Forthcoming at Public Choice) </em>
+<p><strong>Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</strong> (with Christian Dippel and Bryan Leonard). 2022. Public Choice.
 <br>
 <small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
 <p>
