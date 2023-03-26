@@ -19,7 +19,7 @@ author_profile: true
 
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
 
-<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2023.
+<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2023. <em> (Revisions Requested at Journal of Political Economy Microeconomics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
 <p>
@@ -33,6 +33,13 @@ author_profile: true
 
 <div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
 
+
+<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy). 2023.
+<br>
+<small>[ <a href="#/" onclick="visib('lead')">Abstract</a>]  | <a href="/files/FryeKagy_LeadExposure.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="lead" style="display: none; text-align: justify; line-height: 1.2"><small>During the late nineteenth century, half of all municipalities installed lead water pipes, exposing millions of people to harmful levels of lead consumption. This paper explores the long-term, and intergenerational, effects of waterborne lead exposure on men’s labor market outcomes using linked samples drawn from the full count censuses. For identification, we leverage variation in lead pipe adoption across cities and differences in the chemical properties of a town’s water supply, which interact to influence the extent of lead leaching. Results show adult men with higher levels of waterborne lead exposure as children have lower incomes, worse occupations, and lower levels of completed education compared to adult men who had lower levels of waterborne lead exposure as children. Men who are exposed to higher levels of waterborne lead have a significantly decreased probability of improving their income rank relative to their fathers, which is consistent with lead exposure behaving like a negative place-based shock that constrains upward mobility.</small><br><br></div>
 
 
 <p><strong>Colonial Definitions of Indigenous Identify and Modern Inequality on American Indian Reservations</strong> (with Dominic P. Parker) 2021.
@@ -102,11 +109,6 @@ within-reservation inequality</small><br><br></div>
 
 
 <p><strong>Market Integration and the Transition to Modern Agriculture</strong>
-<br>
-<p>
-
-
-<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy)
 <br>
 <p>
 
