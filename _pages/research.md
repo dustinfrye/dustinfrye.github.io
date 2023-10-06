@@ -12,7 +12,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2022. <em> (2nd Round Revisions Requested at Review of Economics and Statistics) </em>
+<p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2023. <em> (Accepted at Review of Economics and Statistics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogInd_master.pdf">Recent Draft</a>] </small>
 <p>
