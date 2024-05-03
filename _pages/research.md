@@ -5,10 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-
-
-<h1 id="-working-papers-">
-	<center> Working Papers </center>
+<h1 id="-publications-">
+	<center>Publications and Forthcoming articles </center>
 </h1>
 <hr>
 
@@ -18,6 +16,29 @@ author_profile: true
 <p>
 
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
+
+
+<p><strong>Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</strong> (with Christian Dippel and Bryan Leonard). 2022. Public Choice.
+<br>
+<small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
+
+
+<p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2021. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
+<br>
+<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.hoover.org/research/self-governance-increased-long-run-income-growth-american-indian-reservations">Hoover Report</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
+<p>
+
+<div id="pnp" style="display: none; text-align: justify; line-height: 1.2"><small> The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12–15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.</small><br><br></div>
+
+
+
+<h1 id="-working-papers-">
+	<center> Working Papers </center>
+</h1>
+<hr>
 
 <p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2023. <em> (Revisions Requested at Journal of Political Economy Microeconomics) </em>
 <br>
@@ -57,26 +78,6 @@ author_profile: true
 
 <div id="ira" style="display: none; text-align: justify; line-height: 1.2"><small> This paper studies the decentralization of governance across American Indian reservations and measures the long-run development differences for reservations that were granted less sovereignty through the Indian Reorganization Act (IRA). To mitigate selection concerns regarding IRA adoption, we exploit voting results by restricting our analysis to narrowly determined elections. Results indicate that IRA adoption stifled economic development, resulting in lower per capita income, higher inequality, and a less developed gaming sector. Income differences develop within the first decade of adoption and persist throughout the twentieth century. Legislation in recent decades expanded local control to reservation governments, expanding sovereignty for IRA reservations, as a result income differences diminish by 2010.</small><br><br></div>
 
-
-<h1 id="-publications-">
-	<center>Publications and Forthcoming articles </center>
-</h1>
-<hr>
-
-<p><strong>Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</strong> (with Christian Dippel and Bryan Leonard). 2022. Public Choice.
-<br>
-<small>[ <a href="#/" onclick="visib('agents')">Abstract</a> | <a href="/files/BureaucraticDiscretion.pdf">Recent Draft</a>] </small>
-<p>
-
-<div id="agents" style="display: none; text-align: justify; line-height: 1.2"><small> From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA’s local “Indian Agents” were given a crucial role in this process. This paper studies empirically to what extent agents’ idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.</small><br><br></div>
-
-
-<p><strong>Indigenous Self-Governance and Development on American Indian Reservations</strong> (with Dominic P. Parker). 2021. AEA Papers and Proceedings (Vol. 111, pp. 233-37).
-<br>
-<small>[ <a href="#/" onclick="visib('pnp')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211099">Paper</a> | <a href="https://www.hoover.org/research/self-governance-increased-long-run-income-growth-american-indian-reservations">Hoover Report</a> | <a href="https://www.openicpsr.org/openicpsr/project/139281/version/V1/view;jsessionid=940747EE622CA5EFF42D096C4C09ECDB">Replication Package</a>] </small>
-<p>
-
-<div id="pnp" style="display: none; text-align: justify; line-height: 1.2"><small> The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12–15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.</small><br><br></div>
 
 
 
