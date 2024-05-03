@@ -108,6 +108,9 @@ within-reservation inequality</small><br><br></div>
 
 <div id="hwyland" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the impact of interstate highways on land development across the United States. First, by considering the intensity of building construction from 1955 to 2015 measured at the 1 km x 1 km grid cell level. Next, it considers the share of developed land using land cover data from 1974 to 2015. For identification, the paper uses proposed but never built highway segments from a 1920s interstate plan as counterfactual interstate locations. Results indicate that interstates significantly increased land development. These gains are strongest among commercial and industrial land and are concentrated within 5 kilometers of interstates.</small><br><br></div>
 
+<p><strong>Mortality Consequences of the Interstate Highway System</strong>
+<br>
+<p>
 
 <p><strong>Market Integration and the Transition to Modern Agriculture</strong>
 <br>
