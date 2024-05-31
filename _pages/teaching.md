@@ -5,9 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<h1 id="-syllabi-">
+	<center> Recent Course Syllabi</center>
+</h1>
+<hr>
+
+<p><strong>AAE 637: Applied Econometric Analysis II (Graduate)</strong>
+<br>
+<small>[ <a href="/files/AAE637_2024.1_SpringSyllabus.pdf">Spring 2024</a>] </small>
+<p>
 
 <h1 id="-syllabi-">
-	<center> Current Course Syllabi</center>
+	<center> Prior Course Syllabi at Vassar College</center>
 </h1>
 <hr>
 
