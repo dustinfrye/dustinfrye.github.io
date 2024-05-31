@@ -40,7 +40,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2023. <em> (Revisions Requested at Journal of Political Economy Microeconomics) </em>
+<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2024. <em> (Resubmitted to Journal of Political Economy Microeconomics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
 <p>
