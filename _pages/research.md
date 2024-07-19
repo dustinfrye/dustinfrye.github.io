@@ -12,7 +12,7 @@ author_profile: true
 
 <p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2023. <em> (Accepted at Review of Economics and Statistics) </em>
 <br>
-<small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogConcEmp.pdf">Recent Draft</a>] </small>
+<small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogConcEmp.pdf">Recent Draft</a>] | <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/750PNH">Replication Package</a>] </small> </small>
 <p>
 
 <div id="hwy" style="display: none; text-align: justify; line-height: 1.2"><small> This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.</small><br><br></div>
@@ -40,7 +40,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2024. <em> (Resubmitted to Journal of Political Economy Microeconomics) </em>
+<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2024. <em> (Conditionally Accepted at the Journal of Political Economy Microeconomics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
 <p>
