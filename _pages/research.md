@@ -10,6 +10,14 @@ author_profile: true
 </h1>
 <hr>
 
+<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2024. <em> (Accepted at the Journal of Political Economy Microeconomics) </em>
+<br>
+<small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
+<p>
+
+<div id="land" style="display: none; text-align: justify; line-height: 1.2"><small> Governments often institute transferability restrictions over property rights to protect owners and communities, but these restrictions impose costs: lowering property values, limiting investment, and increasing transaction costs. We study the long-run impacts of transferability restrictions using a natural experiment affecting millions of acres of Native American reservation land, by comparing non-transferable allotted-trust parcels with transferable fee-simple parcels. We use satellite imagery to study differences in land use across tenure types by leveraging fine-grained fixed effects to compare immediate neighbors. We find that fee-simple plots are 13% more likely to be developed and have 35% more land in cultivation. </small><br><br></div>
+
+
 <p><strong>Transportation Networks and the Geographic Concentration of Employment</strong> 2023. <em> (Accepted at Review of Economics and Statistics) </em>
 <br>
 <small>[ <a href="#/" onclick="visib('hwy')">Abstract</a> | <a href="/files/GeogConcEmp.pdf">Recent Draft</a>] | <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/750PNH">Replication Package</a>] </small>
@@ -39,13 +47,6 @@ author_profile: true
 	<center> Working Papers </center>
 </h1>
 <hr>
-
-<p><strong>Property Rights Without Transfer Rights: A Study of Indian Land Allotment</strong> (with Christian Dippel and Bryan Leonard). 2024. <em> (Conditionally Accepted at the Journal of Political Economy Microeconomics) </em>
-<br>
-<small>[ <a href="#/" onclick="visib('land')">Abstract</a> | <a href="/files/dawesLand_master.pdf">NBER WP # 27479</a> | <a href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a> | <a href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a> | <a href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">How the World Works Podcast</a> ] </small>
-<p>
-
-<div id="land" style="display: none; text-align: justify; line-height: 1.2"><small> Governments often institute transferability restrictions over property rights to protect owners and communities, but these restrictions impose costs: lowering property values, limiting investment, and increasing transaction costs. We study the long-run impacts of transferability restrictions using a natural experiment affecting millions of acres of Native American reservation land, by comparing non-transferable allotted-trust parcels with transferable fee-simple parcels. We use satellite imagery to study differences in land use across tenure types by leveraging fine-grained fixed effects to compare immediate neighbors. We find that fee-simple plots are 13% more likely to be developed and have 35% more land in cultivation. </small><br><br></div>
 
 <p><strong>The Effect of Allotment on Native American Households During the Assimilation Era</strong> (with Christian Dippel). 2021.
 <br>
