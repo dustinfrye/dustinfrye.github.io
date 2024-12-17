@@ -50,13 +50,13 @@ author_profile: true
 
 <p><strong>The Effect of Allotment on Native American Households During the Assimilation Era</strong> (with Christian Dippel). 2021.
 <br>
-<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_.pdf">Recent Draft</a>] </small>
+<small>[ <a href="#/" onclick="visib('ppl')">Abstract</a> | <a href="/files/dawes_.pdf">Older Draft</a>] </small>
 <p>
 
-<div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. The allotted land was initially held in trust (with limited property rights), and households had to prove themselves “competent” in order to be given full ‘fee- simple’ property rights. In short, allotment was a conditional transfer program aimed at cultural assimilation. We study how Native American households responded to the incentives created by allotment.</small><br><br></div>
+<div id="ppl" style="display: none; text-align: justify; line-height: 1.2"><small> In the early twentieth century, the U.S. government sought to culturally assimilate the hundreds of thousands of Native Americans living on reservations. One key mechanism was the Dawes Act (1887), which broke up tribally held lands and allotted them to individual Native households. We draw on newly digitized data sources, including Bureau of Indian Affairs annual reports, the universe of Indian allotments from the Bureau of Land Management, the 1935/36 Indian Census Rolls, and the complete count U.S. Censuses from 1900 to 1940. Using a probabilistic matching algorithm, we link individuals from the Indian Census Rolls to the 1940 Census, allowing us to observe their property rights status and census outcomes. Additionally, we construct data on the movements of local Indian Agents across reservations from 1880 to 1940. This enables us to examine how property rights changes—shaped by these agents—affected households’ wages, schooling, and their adoption of outward practices that federal policymakers promoted as signs of cultural assimilation.</small><br><br></div>
 
 
-<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy). 2023.
+<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy). 2024.
 <br>
 <small>[ <a href="#/" onclick="visib('lead')">Abstract</a>]  | <a href="/files/FryeKagy_LeadExposure.pdf">Recent Draft</a>] </small>
 <p>
