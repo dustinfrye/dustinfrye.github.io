@@ -230,6 +230,28 @@ author_profile: true
   </div>
 </div>
 
+<div class="research-section">
+  <h2 class="research-section__title">Other Publications</h2>
+
+  <div class="paper">
+    <div class="paper__title">Ka Mua, Ka Muri &mdash; Walking Backwards into the Future: Revitalizing Indigenous Economies and Economies of Well-Being</div>
+    <div class="paper__authors">S. Greenhalgh, J. Mika, C. Alcantara, S. Awatere, K. Bell, K. Dell, D. L. Feir, Dustin Frye, D. Jarvis, T. Kong, and K. Maclean</div>
+    <div class="paper__venue"><em>Indigenous Business and Public Administration</em>, 3(1), 13&ndash;27, 2025.</div>
+  </div>
+
+  <div class="paper">
+    <div class="paper__title">Renewing Indigenous Cultures</div>
+    <div class="paper__authors">Dustin Frye and Dominic Parker</div>
+    <div class="paper__venue">Hoover Institution Essay, Stanford CA, 2022.</div>
+  </div>
+
+  <div class="paper">
+    <div class="paper__title">Paternalism versus Sovereignty: The Long Run Economic Effects of the Indian Reorganization Act</div>
+    <div class="paper__authors">Dustin Frye</div>
+    <div class="paper__venue">In <em>Unlocking the Wealth of Indian Nations</em>, Terry L. Anderson (ed.), Lexington Books, Rowman &amp; Littlefield, Lanham, MD, 2016.</div>
+  </div>
+</div>
+
 <script>
 function toggleAbstract(id, el) {
   var wrapper = document.getElementById(id);
