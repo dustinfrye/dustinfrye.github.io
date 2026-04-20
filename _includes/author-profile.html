@@ -43,6 +43,9 @@
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><svg aria-hidden="true" focusable="false" style="display:inline-block;width:1.25em;height:1em;vertical-align:-0.125em;text-align:center;" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.4C61.6-9.2 37.5-1.5 21.6 5.7C3.3 14 0 42.1 0 58.6S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-10.6 343.8 100.3 468.8C222.2 600.7 267.3 440.2 290.5 358.8c23.2 81.4 49.9 236.2 187.8 110c103.8-110 22.8-149.6-71.5-163.7c-3.4-.4-6.7-.9-10-1.3c3.4 .4 6.7 .8 10 1.3c64.1 7.1 133.6-15.1 153.1-80.7C565.6 194 576 75.1 576 58.6s-3.3-44.7-21.6-52.9c-15.8-7.2-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"/></svg> Bluesky</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}

@@ -64,7 +64,7 @@ author_profile: true
         <div class="paper__abstract-text">
           From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA's local "Indian Agents" were given a crucial role in this process. This paper studies empirically to what extent agents' idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/agents.png" alt="Bureaucratic discretion results"></div> -->
+        <div class="paper__figure paper__figure--contain"><img src="/images/research/agents.png" alt="Bureaucratic discretion results"></div>
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ author_profile: true
         <div class="paper__abstract-text">
           The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12&ndash;15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/pnp.png" alt="Self-governance results"></div> -->
+        <div class="paper__figure"><img src="/images/research/pnp.png" alt="Self-governance results"></div>
       </div>
     </div>
   </div>
@@ -123,7 +123,7 @@ author_profile: true
         <div class="paper__abstract-text">
           Market integration can lead to specialization, factor reallocation, and welfare gains. This study empirically documents this shift in the context of the US Interstate Highways and the impacts of their introduction on agriculture between 1940&ndash;2002. After Interstate Highways were constructed through a county, farmland values increased about 8% over the following decades. However, this average effect masks sharp divergence along the dimension of land suitability: counties with Interstate Highways and that were well-suited for crop production saw farmland acreage expand, crop revenue increase, and livestock activity decline. Counties poorly suited for crops experienced the opposite after the introduction of Interstate Highways&mdash;farmland contracted, and livestock activity grew. These opposing responses are consistent with a Ricardian model of specialization, in which market integration causes places to reallocate land and resources into their highest-value activity.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/mktint.png" alt="Market integration results"></div> -->
+        <div class="paper__figure"><img src="/images/research/mktint.png" alt="Market integration results"></div>
       </div>
     </div>
   </div>
