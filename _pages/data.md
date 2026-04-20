@@ -50,7 +50,7 @@ author_profile: true
   <div class="paper">
     <div class="paper__title">Native Americans in the Full Count Census</div>
     <div class="paper__abstract-text" style="margin: 0.35em 0 0.75em; font-size: 0.88em; color: #555;">
-      Historical microdata resources on the Native American population from the 1900&ndash;1940 US Full Count Censuses. These data products are being developed alongside the paper <em>Native Americans in the Historical Census: New Data and Applications</em> (with Christian Dippel). Links will be posted as each component is released.
+      Historical microdata resources on the Native American population from the 1900&ndash;1940 US Full Count Censuses. These data products are being developed alongside the paper <em>Native Americans in the Historical Census: New Data and Applications</em> (with Christian Dippel). Funded by National Science Foundation Grant #2017946, <em>Native American Households During the Assimilation Era</em>. Links will be posted as each component is released.
     </div>
 
     <div style="margin: 0.5em 0 0.25em; padding-left: 0.75em; border-left: 2px solid #e0e0e0;">
@@ -58,12 +58,18 @@ author_profile: true
       <div style="font-size: 0.85em; color: #666; margin-top: 0.1em;">
         Individual-level links between the 1935/36 Indian Census Rolls and the 1900&ndash;1940 complete count US Censuses. <em>Coming soon.</em>
       </div>
+      <div style="font-size: 0.8em; color: #777; margin-top: 0.3em;">
+        Used in: <a href="/files/dawes_.pdf">The Effect of Land Allotment on Native American Households During the Assimilation Era</a>
+      </div>
     </div>
 
     <div style="margin: 0.75em 0 0.25em; padding-left: 0.75em; border-left: 2px solid #e0e0e0;">
       <div style="font-weight: 600; font-size: 0.95em; color: #333;">Reservation Crosswalks</div>
       <div style="font-size: 0.85em; color: #666; margin-top: 0.1em;">
         Individual-to-reservation assignments enabling treatment variation for historical federal Indian policies. <em>Coming soon.</em>
+      </div>
+      <div style="font-size: 0.8em; color: #777; margin-top: 0.3em;">
+        Used in: <a href="/files/dawes_.pdf">The Effect of Land Allotment on Native American Households During the Assimilation Era</a>
       </div>
     </div>
   </div>
