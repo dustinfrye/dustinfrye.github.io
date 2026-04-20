@@ -16,6 +16,7 @@ author_profile: true
       <a class="paper__link" href="#/" onclick="toggleAbstract('land', this); return false;">Abstract</a>
       <a class="paper__link" href="https://doi.org/10.1086/737571">Published Version</a>
       <a class="paper__link" href="/files/dawesLand_master.pdf">NBER WP #27479</a>
+      <a class="paper__link" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SFHYHU">Replication Package</a>
       <a class="paper__link" href="https://anderson-review.ucla.edu/native-american-land/">Anderson Review</a>
       <a class="paper__link" href="https://voxeu.org/article/burden-non-transferable-property-rights">Vox-EU</a>
       <a class="paper__link" href="https://www.podbean.com/media/share/pb-e596g-ec2768?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share">Podcast</a>
