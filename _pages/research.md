@@ -25,7 +25,7 @@ author_profile: true
         <div class="paper__abstract-text">
           Governments often institute transferability restrictions over property rights to protect owners and communities, but these restrictions impose costs: lowering property values, limiting investment, and increasing transaction costs. We study the long-run impacts of transferability restrictions using a natural experiment affecting millions of acres of Native American reservation land, by comparing non-transferable allotted-trust parcels with transferable fee-simple parcels. We use satellite imagery to study differences in land use across tenure types by leveraging fine-grained fixed effects to compare immediate neighbors. We find that fee-simple plots are 13% more likely to be developed and have 35% more land in cultivation.
         </div>
-        <div class="paper__figure paper__figure--contain"><img src="/images/research/land.png" alt="Land allotment results"></div>
+        <div class="paper__figure"><img src="/images/research/land.png" alt="Land allotment results"></div>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ author_profile: true
         <div class="paper__abstract-text">
           From 1887 to 1934, the federal government broke up millions of acres of tribally owned reservation lands and allotted them to individual Native American households. Allotment conveyed a highly contingent set of property rights, with land initially held in trust by the federal government and administered by the Bureau of Indian Affairs, from which it could later be re-titled into fee simple. The BIA's local "Indian Agents" were given a crucial role in this process. This paper studies empirically to what extent agents' idiosyncratic preferences and discretion shaped this process. We find that individual agents were statistically important drivers of policy implementation, and that their legacies matter for the distribution of land titles on reservations even to the present day.
         </div>
-        <div class="paper__figure paper__figure--contain"><img src="/images/research/agents.png" alt="Bureaucratic discretion results"></div>
+        <div class="paper__figure"><img src="/images/research/agents.png" alt="Bureaucratic discretion results"></div>
       </div>
     </div>
   </div>
@@ -106,7 +106,7 @@ author_profile: true
         <div class="paper__abstract-text">
           During the late nineteenth century, half of all municipalities installed lead water pipes, exposing millions of people to harmful levels of lead consumption. This paper explores the long-term, and intergenerational, effects of waterborne lead exposure on men's labor market outcomes using linked samples drawn from the full count censuses. For identification, we leverage variation in lead pipe adoption across cities and differences in the chemical properties of a town's water supply, which interact to influence the extent of lead leaching. Results show adult men with higher levels of waterborne lead exposure as children have lower incomes, worse occupations, and lower levels of completed education compared to adult men who had lower levels of waterborne lead exposure as children. Men who are exposed to higher levels of waterborne lead have a significantly decreased probability of improving their income rank relative to their fathers, which is consistent with lead exposure behaving like a negative place-based shock that constrains upward mobility.
         </div>
-        <div class="paper__figure paper__figure--contain"><img src="/images/research/lead.png" alt="Lead exposure results"></div>
+        <div class="paper__figure"><img src="/images/research/lead.png" alt="Lead exposure results"></div>
       </div>
     </div>
   </div>
