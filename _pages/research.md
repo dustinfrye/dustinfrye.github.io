@@ -10,7 +10,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Property Rights Without Transfer Rights: A Study of Indian Land Allotment</div>
-    <div class="paper__authors">Christian Dippel, Dustin Frye, and Bryan Leonard</div>
+    <div class="paper__authors">with Christian Dippel and Bryan Leonard</div>
     <div class="paper__venue"><em>Journal of Political Economy: Microeconomics</em>, forthcoming.</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('land', this); return false;">Abstract</a>
@@ -32,7 +32,6 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Transportation Networks and the Geographic Concentration of Employment</div>
-    <div class="paper__authors">Dustin Frye</div>
     <div class="paper__venue"><em>Review of Economics and Statistics</em>, 108(2), 514&ndash;524, 2026.</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('hwy', this); return false;">Abstract</a>
@@ -52,7 +51,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Bureaucratic Discretion in Policy Implementation: Evidence from the Allotment Era</div>
-    <div class="paper__authors">Christian Dippel, Dustin Frye, and Bryan Leonard</div>
+    <div class="paper__authors">with Christian Dippel and Bryan Leonard</div>
     <div class="paper__venue"><em>Public Choice</em>, 199, 193&ndash;211, 2024.</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('agents', this); return false;">Abstract</a>
@@ -71,7 +70,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Indigenous Self-Governance and Development on American Indian Reservations</div>
-    <div class="paper__authors">Dustin Frye and Dominic P. Parker</div>
+    <div class="paper__authors">with Dominic P. Parker</div>
     <div class="paper__venue"><em>AEA Papers and Proceedings</em>, 111, 233&ndash;237, 2021.</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('pnp', this); return false;">Abstract</a>
@@ -95,7 +94,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Economic Consequences of Childhood Exposure to Urban Environmental Toxins</div>
-    <div class="paper__authors">Dustin Frye and Gisella Kagy</div>
+    <div class="paper__authors">with Gisella Kagy</div>
     <div class="paper__venue"><em>Under review.</em></div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('lead', this); return false;">Abstract</a>
@@ -114,7 +113,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Market Integration and the Transition to Modern Agriculture</div>
-    <div class="paper__authors">Dustin Frye and Jeff Hadachek</div>
+    <div class="paper__authors">with Jeff Hadachek</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('mktint', this); return false;">Abstract</a>
     </div>
@@ -130,7 +129,6 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Land Development Along National Highway Networks</div>
-    <div class="paper__authors">Dustin Frye</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('hwyland', this); return false;">Abstract</a>
     </div>
@@ -146,7 +144,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">The Effect of Land Allotment on Native American Households During the Assimilation Era</div>
-    <div class="paper__authors">Christian Dippel and Dustin Frye</div>
+    <div class="paper__authors">with Christian Dippel</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('ppl', this); return false;">Abstract</a>
       <a class="paper__link" href="/files/dawes_.pdf">Working Paper</a>
@@ -163,7 +161,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Colonial Definitions of Indigenous Identity and Modern Inequality on American Indian Reservations</div>
-    <div class="paper__authors">Dustin Frye and Dominic P. Parker</div>
+    <div class="paper__authors">with Dominic P. Parker</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('ineq', this); return false;">Abstract</a>
     </div>
@@ -179,7 +177,7 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Local versus Central Governance: Long-Run Effects of Federal Oversight over American Indian Reservations</div>
-    <div class="paper__authors">Dustin Frye and Dominic P. Parker</div>
+    <div class="paper__authors">with Dominic P. Parker</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('ira', this); return false;">Abstract</a>
       <a class="paper__link" href="/files/ira_master.pdf">Working Paper</a>
@@ -200,12 +198,12 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Mortality Consequences of the Interstate Highway System</div>
-    <div class="paper__authors">Dustin Frye and Chris Severen</div>
+    <div class="paper__authors">with Chris Severen</div>
   </div>
 
   <div class="paper">
     <div class="paper__title">Native Americans in the Historical Census: New Data and Applications</div>
-    <div class="paper__authors">Christian Dippel and Dustin Frye</div>
+    <div class="paper__authors">with Christian Dippel</div>
     <div class="paper__links">
       <a class="paper__link" href="#/" onclick="toggleAbstract('nadata', this); return false;">Abstract</a>
     </div>
@@ -221,12 +219,12 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Settler Pressure and the Political Economy of Indian Land Allotment</div>
-    <div class="paper__authors">Christian Dippel, Dustin Frye, and Bryan Leonard</div>
+    <div class="paper__authors">with Christian Dippel and Bryan Leonard</div>
   </div>
 
   <div class="paper">
     <div class="paper__title">Going Off the Rails: The Effect of Railroad Abandonment on Population and Industrial Decline</div>
-    <div class="paper__authors">Dustin Frye, Taylor Jaworski, and Carl Kitchens</div>
+    <div class="paper__authors">with Taylor Jaworski and Carl Kitchens</div>
   </div>
 </div>
 
@@ -235,19 +233,18 @@ author_profile: true
 
   <div class="paper">
     <div class="paper__title">Ka Mua, Ka Muri &mdash; Walking Backwards into the Future: Revitalizing Indigenous Economies and Economies of Well-Being</div>
-    <div class="paper__authors">S. Greenhalgh, J. Mika, C. Alcantara, S. Awatere, K. Bell, K. Dell, D. L. Feir, Dustin Frye, D. Jarvis, T. Kong, and K. Maclean</div>
+    <div class="paper__authors">with S. Greenhalgh, J. Mika, C. Alcantara, S. Awatere, K. Bell, K. Dell, D. L. Feir, D. Jarvis, T. Kong, and K. Maclean</div>
     <div class="paper__venue"><em>Indigenous Business and Public Administration</em>, 3(1), 13&ndash;27, 2025.</div>
   </div>
 
   <div class="paper">
     <div class="paper__title">Renewing Indigenous Cultures</div>
-    <div class="paper__authors">Dustin Frye and Dominic Parker</div>
+    <div class="paper__authors">with Dominic Parker</div>
     <div class="paper__venue">Hoover Institution Essay, Stanford CA, 2022.</div>
   </div>
 
   <div class="paper">
     <div class="paper__title">Paternalism versus Sovereignty: The Long Run Economic Effects of the Indian Reorganization Act</div>
-    <div class="paper__authors">Dustin Frye</div>
     <div class="paper__venue">In <em>Unlocking the Wealth of Indian Nations</em>, Terry L. Anderson (ed.), Lexington Books, Rowman &amp; Littlefield, Lanham, MD, 2016.</div>
   </div>
 </div>
