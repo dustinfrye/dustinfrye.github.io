@@ -118,17 +118,30 @@
     flex: 0 0 35%;
     max-width: 35%;
     align-self: flex-start;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    border-radius: 3px;
+    border: 1px solid #e0e0e0;
+    background: #fff;
 
     img {
       width: 100%;
-      height: auto;
-      border-radius: 3px;
-      border: 1px solid #e0e0e0;
+      height: 100%;
+      object-fit: cover;    // crops to fill the 4:3 box; use .paper__figure--contain for letterbox
+      object-position: center;
+      display: block;
+    }
+
+    // Opt-in variant for figures that must not be cropped (e.g. a full chart with axis labels)
+    &--contain img {
+      object-fit: contain;
+      background: #fff;
     }
 
     @media (max-width: 600px) {
       flex: none;
       max-width: 100%;
+      aspect-ratio: 16 / 9;  // a bit shorter on mobile so it doesn't dominate the view
     }
   }
 

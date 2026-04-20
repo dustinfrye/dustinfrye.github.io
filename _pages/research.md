@@ -25,7 +25,7 @@ author_profile: true
         <div class="paper__abstract-text">
           Governments often institute transferability restrictions over property rights to protect owners and communities, but these restrictions impose costs: lowering property values, limiting investment, and increasing transaction costs. We study the long-run impacts of transferability restrictions using a natural experiment affecting millions of acres of Native American reservation land, by comparing non-transferable allotted-trust parcels with transferable fee-simple parcels. We use satellite imagery to study differences in land use across tenure types by leveraging fine-grained fixed effects to compare immediate neighbors. We find that fee-simple plots are 13% more likely to be developed and have 35% more land in cultivation.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/land.png" alt="Land allotment results"></div> -->
+        <div class="paper__figure"><img src="/images/research/land.png" alt="Land allotment results"></div>
       </div>
     </div>
   </div>
@@ -45,7 +45,7 @@ author_profile: true
         <div class="paper__abstract-text">
           This paper examines the effect of expanding transportation networks on uneven spatial industrial growth across the United States from 1953 to 2016. The paper addresses the endogenous placement and timing of interstate construction by instrumenting for highway locations using a historic military map combined with a network theory algorithm to predict construction timing. Results indicate that interstate counties experienced significant growth in employment and the number of establishments relative to non-interstate counties. Growth rates are highest within two decades of receiving an interstate. The results also reveal positive spillovers occurred in later decades among adjacent counties along the metropolitan periphery.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/hwy.png" alt="Highway employment results"></div> -->
+        <div class="paper__figure"><img src="/images/research/hwy.png" alt="Highway employment results"></div>
       </div>
     </div>
   </div>
@@ -107,7 +107,7 @@ author_profile: true
         <div class="paper__abstract-text">
           During the late nineteenth century, half of all municipalities installed lead water pipes, exposing millions of people to harmful levels of lead consumption. This paper explores the long-term, and intergenerational, effects of waterborne lead exposure on men's labor market outcomes using linked samples drawn from the full count censuses. For identification, we leverage variation in lead pipe adoption across cities and differences in the chemical properties of a town's water supply, which interact to influence the extent of lead leaching. Results show adult men with higher levels of waterborne lead exposure as children have lower incomes, worse occupations, and lower levels of completed education compared to adult men who had lower levels of waterborne lead exposure as children. Men who are exposed to higher levels of waterborne lead have a significantly decreased probability of improving their income rank relative to their fathers, which is consistent with lead exposure behaving like a negative place-based shock that constrains upward mobility.
         </div>
-        <!-- <div class="paper__figure"><img src="/images/research/lead.png" alt="Lead exposure results"></div> -->
+        <div class="paper__figure"><img src="/images/research/lead.png" alt="Lead exposure results"></div>
       </div>
     </div>
   </div>
