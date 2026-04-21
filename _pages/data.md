@@ -50,7 +50,7 @@ author_profile: true
   <div class="paper">
     <div class="paper__title">Native Americans in the Full Count Census</div>
     <div class="paper__abstract-text" style="margin: 0.35em 0 0.75em; font-size: 0.88em; color: #555;">
-      Historical microdata resources on the Native American population from the 1900&ndash;1940 US Full Count Censuses. These data products are being developed alongside the paper <em>Native Americans in the Historical Census: New Data and Applications</em> (with Christian Dippel). Funded by National Science Foundation Grant #2017946, <em>Native American Households During the Assimilation Era</em>. Links will be posted as each component is released.
+      Historical microdata resources on the Native American population from the 1900&ndash;1940 US Full Count Censuses. Funded by National Science Foundation Grant #2017946, <em>Native American Households During the Assimilation Era</em>. Links will be posted as each component is released.
     </div>
 
     <div style="margin: 0.5em 0 0.25em; padding-left: 0.75em; border-left: 2px solid #e0e0e0;">
